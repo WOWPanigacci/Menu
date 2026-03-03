@@ -77,7 +77,7 @@ span.prezzo {
 footer {
     color: black;
     text-align: center;
-    font-size: 9px;
+    font-size: 10px;
     padding: 20px;
     flex-shrink: 0;
 }
